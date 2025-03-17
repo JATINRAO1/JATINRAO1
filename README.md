@@ -1,18 +1,24 @@
+<!-- Banner Image -->
+<img src="https://source.unsplash.com/1600x400/?data,analytics" alt="Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Data Analytics Enthusiast</h3>
 
-- 🌎 I'm based in **Delhi, India**
+- 🌎 I'm based in **Delhi, India**  
 
-- 💬 Ask me about **Python, SQL, PowerBI, Excel**
+- 💬 Ask me about **Python, SQL, Power BI, Excel**  
 
-- 📫 How to reach me **yadavjatin2531@gmail.com**
+- 📫 How to reach me **yadavjatin2531@gmail.com**  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c-WPPtI7ftB2A0wdZmsz88GFJCJNcC9S/view?usp=drive_link](https://drive.google.com/file/d/1c-WPPtI7ftB2A0wdZmsz88GFJCJNcC9S/view?usp=drive_link)
+- 📄 Know about my experiences 👉 [**RESUME**](https://drive.google.com/file/d/1c-WPPtI7ftB2A0wdZmsz88GFJCJNcC9S/view?usp=drive_link)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jatin-yadav-b303b2183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-yadav-b303b2183" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jatin-yadav-b303b2183" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-yadav-b303b2183" height="30" width="40" />
+  </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Existing logos -->
@@ -42,4 +48,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
 </p>
-
