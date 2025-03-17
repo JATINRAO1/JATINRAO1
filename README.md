@@ -1,5 +1,4 @@
-<!-- Banner Image -->
-<img src="https://source.unsplash.com/1600x400/?data,analytics" alt="Banner" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Data Analytics Enthusiast</h3>
