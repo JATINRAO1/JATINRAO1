@@ -1,4 +1,4 @@
-
+![logo](https://github.com/JATINRAO1/JATINRAO1/blob/main/Banner%20Photo.jpeg)
 
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Data Analytics Enthusiast</h3>
